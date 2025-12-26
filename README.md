@@ -20,7 +20,7 @@ The goal was to analyze e-commerce sales data and create an interactive business
 ## 📁 Files Included
 - `Ecommerce_Sales_Dashboard.pbix` – Power BI dashboard
 - `screenshots/` – Dashboard screenshots
-- Dataset file (if included)
+- Dataset file
 
 ## 🚀 Outcome
 This dashboard helps stakeholders quickly understand sales trends, profitability, and product performance to support data-driven decisions.
